@@ -1,0 +1,10 @@
+name: Httpreq
+version: '${project.version}'
+main: de.themaxmine07.httpreq.Main
+api-version: 1.20
+authors: [ themaxmine07 ]
+website: www.themaxmine07.de
+commands:
+  print:
+    description: print a line!
+
